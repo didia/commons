@@ -1,0 +1,36 @@
+#Thu Feb 19 16:43:09 EST 2015
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.overrideannotation=true
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=12
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldSuffixes=
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="filecomment_context" deleted\="false" description\="Comment for created Java files" enabled\="true" id\="org.eclipse.jdt.ui.text.codetemplates.filecomment" name\="filecomment">/**\n * @author ${user}\n * \n * @created ${date}\n */</template><template autoinsert\="false" context\="newtype_context" deleted\="false" description\="Newly created files" enabled\="true" id\="org.eclipse.jdt.ui.text.codetemplates.newtype" name\="newtype">${package_declaration}\n\n${filecomment}\n\n${type_declaration}</template></templates>
+\!/=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localSuffixes=
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.ignorelowercasenames=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType24,com.oracle.java.7u60.jdk" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="com.oracle.java.7u60.jdk" javadocURL\="http\://download.oracle.com/javase/7/docs/api/" name\="Java SE 7 [1.7.0_60]" path\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home">\n<libraryLocations>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/resources.jar" jreJavadoc\="http\://download.oracle.com/javase/7/docs/api/" jreSrc\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/src.zip" pkgRoot\="src"/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/rt.jar" jreJavadoc\="http\://download.oracle.com/javase/7/docs/api/" jreSrc\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/src.zip" pkgRoot\="src"/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/jsse.jar" jreJavadoc\="http\://download.oracle.com/javase/7/docs/api/" jreSrc\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/src.zip" pkgRoot\="src"/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/jce.jar" jreJavadoc\="http\://download.oracle.com/javase/7/docs/api/" jreSrc\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/src.zip" pkgRoot\="src"/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/charsets.jar" jreJavadoc\="http\://download.oracle.com/javase/7/docs/api/" jreSrc\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/src.zip" pkgRoot\="src"/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/jfr.jar" jreJavadoc\="http\://download.oracle.com/javase/7/docs/api/" jreSrc\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/src.zip" pkgRoot\="src"/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/ext/dnsns.jar" jreSrc\="" pkgRoot\=""/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/ext/localedata.jar" jreSrc\="" pkgRoot\=""/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/ext/sunec.jar" jreSrc\="" pkgRoot\=""/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar" jreSrc\="" pkgRoot\=""/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar" jreSrc\="" pkgRoot\=""/>\n<libraryLocation jreJar\="/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/ext/zipfs.jar" jreSrc\="" pkgRoot\=""/>\n<libraryLocation jreJar\="/Library/Frameworks/GDAL.framework/Versions/1.11/Java/commons-lang-2.6.jar" jreSrc\="" pkgRoot\=""/>\n<libraryLocation jreJar\="/Library/Frameworks/GDAL.framework/Versions/1.11/Java/commons-logging-1.1.3.jar" jreSrc\="" pkgRoot\=""/>\n<libraryLocation jreJar\="/Library/Frameworks/GDAL.framework/Versions/1.11/Java/jackcess-1.2.14.3.jar" jreSrc\="" pkgRoot\=""/>\n</libraryLocations>\n</vm>\n</vmType>\n</vmSettings>\n
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.ondemandthreshold=99
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.gettersetter.use.is=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.exception.name=e
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.javadoc=true
+@org.eclipse.ui.workbench=3.105.2.v20140211-1711
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldPrefixes=
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.importorder=java;javax;org;com;
+@org.eclipse.jdt.ui=3.9.2.v20131106-1600
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SPACE"/>\n<keyBinding commandId\="org.eclipse.ui.edit.text.contentAssist.proposals" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SPACE"/>\n</org.eclipse.ui.commands>
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.7
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.7
+file_export_version=3.0
+@org.eclipse.jdt.launching=3.7.1.v20131218-1102
+@org.eclipse.jdt.core=3.9.2.v20140114-1555
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.staticondemandthreshold=99
