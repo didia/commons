@@ -1,0 +1,63 @@
+.id-checkbox__label {
+  display: flex;
+  align-items: center;
+  transition: 0.3s ease-in-out;
+  transition-property: opacity;
+}
+
+.id-checkbox__input:checked + .id-checkbox__fake-input {
+  &::before {
+    border-color: darken(#e2e2e2, 10%);
+  }
+
+  &::after {
+    display: block;
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 32px;
+    height: 30px;
+    background: url('/assets/images/icon-blue-checkmark.svg') center no-repeat;
+    background-size: 16px 12px;
+  }
+}
+
+.id-checkbox__fake-input {
+  position: relative;
+
+  &::before {
+    display: block;
+    content: '';
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    border: 2px solid #e2e2e2;
+    margin-right: 10px;
+    background: #fff;
+  }
+}
+
+.id-checkbox__label-value {
+  display: inline-flex;
+  margin-top: 2px;
+  line-height: 1;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: $font-hind;
+  color: #4a4a4a;
+}
+
+.id-checkbox__error {
+  font-family: $font-hind;
+  font-size: 16px;
+  font-style: italic;
+  color: red;
+}
+
+&.disabled {
+  .id-checkbox__label {
+    cursor: default;
+    opacity: 0.5;
+  }
+}

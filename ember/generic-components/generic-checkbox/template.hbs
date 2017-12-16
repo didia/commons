@@ -1,0 +1,21 @@
+<label class="id-checkbox__label">
+  {{one-way-checkbox
+    checked=isChecked
+    name=name
+    disabled=disabled
+    class='id-checkbox__input visually-hidden'
+    update=(action 'update')
+  }}
+
+  <div class="id-checkbox__fake-input"></div>
+
+  {{#if hasBlock}}
+    <div class="id-checkbox__label-value">{{yield}}</div>
+  {{else if label}}
+    <div class="id-checkbox__label-value">{{label}}</div>
+  {{/if}}
+</label>
+
+{{#if error}}
+  <div class="id-checkbox__error">{{error}}</div>
+{{/if}}
